@@ -6,7 +6,7 @@ bazel-*
 *.blg
 *.brf
 .coverage
-database/
+nuplan/database
 .DS_Store
 *.egg-info
 _ext
