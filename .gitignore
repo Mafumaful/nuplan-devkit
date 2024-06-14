@@ -6,6 +6,7 @@ bazel-*
 *.blg
 *.brf
 .coverage
+database/
 .DS_Store
 *.egg-info
 _ext
