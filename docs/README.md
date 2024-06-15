@@ -139,3 +139,17 @@ Please use the following citation when referencing [nuPlan](https://arxiv.org/ab
   year=2021
 }
 ```
+
+## debug logs
+
+Problem with torch
+
+```bash
+pip install torch==2.0.1+cu117 torchvision==0.15.2+cu117 -f https://download.pytorch.org/whl/torch_stable.html
+```
+
+Problem with matplotlib
+
+```bash
+pip install matplotlib==3.5.2
+```
